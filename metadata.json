@@ -1,0 +1,5 @@
+{
+  "name": "Kameeti Manager - Committee Management App",
+  "description": "An application to automate and streamline the operation of informal savings and rotating fund committees, enabling an administrator to create and manage committees, register members, track monthly payments, manage half-share participants, and manually record committee draws.",
+  "requestFramePermissions": []
+}
